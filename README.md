@@ -7,7 +7,7 @@ This Power BI dashboard is designed to provide a comprehensive view of customer 
 
 The main goal is to identify patterns, uncover areas for improvement, and support data-driven decision-making to enhance the overall customer experience. This tool is especially valuable for customer service teams, product managers, and any stakeholders looking to better understand customer feedback.
 
-The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset).
 
 ## Project Insights
 - **Total Tickets:** Total number of tickets created. Quarter trends included for the selected year
@@ -21,11 +21,11 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
 - **Customer Satisfaction:** Gauge chart to display the average customer satisfaction once the ticket is closed
 - **Tickets by Channel:** Donut chart to display the distribution of tickets created based on the communication channel
 
-  ## Installation
-  You can access this dashboard by:
-    1. Download Power BI Desktop
-    2. Download [Customer Support Dashboard](main/CustomerSupportDashboard.pbix)
-    3. Open the dashboard on Power BI Desktop
+## Installation
+You can access this dashboard by:
+  1. Download Power BI Desktop
+  2. Download [Customer Support Dashboard](main/CustomerSupportDashboard.pbix)
+  3. Open the dashboard on Power BI Desktop
  
 ## Next Steps
   1. Adding countries or states to the dataset and building a map
